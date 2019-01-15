@@ -1,0 +1,803 @@
+idx,word,name
+23428,active,positive_emotion
+23429,beautiful,positive_emotion
+23430,brave,positive_emotion
+23431,bright,positive_emotion
+23432,cheerful,positive_emotion
+23433,comfortable,positive_emotion
+23434,confident,positive_emotion
+23435,delighted,positive_emotion
+23436,energetic,positive_emotion
+23437,excited,positive_emotion
+23438,fantastic,positive_emotion
+23439,fine,positive_emotion
+23440,free,positive_emotion
+23441,friendly,positive_emotion
+23442,interested,positive_emotion
+23443,joyful,positive_emotion
+23444,kind,positive_emotion
+23445,loved,positive_emotion
+23446,lucky,positive_emotion
+23447,not bad,positive_emotion
+23448,perfect,positive_emotion
+23449,pleasant,positive_emotion
+23450,pleased,positive_emotion
+23451,popular,positive_emotion
+23452,positive,positive_emotion
+23453,strong,positive_emotion
+23454,cool,positive_emotion
+23455,afraid,negative_emotion
+23456,alone,negative_emotion
+23457,annoyed,negative_emotion
+23458,anxious,negative_emotion
+23459,ashamed,negative_emotion
+23460,awful,negative_emotion
+23461,crazy,negative_emotion
+23462,disappointed,negative_emotion
+23463,down,negative_emotion
+23464,embarrassed,negative_emotion
+23465,exhausted,negative_emotion
+23466,fearful,negative_emotion
+23467,frustrated,negative_emotion
+23468,horrible,negative_emotion
+23469,lonely,negative_emotion
+23470,lost,negative_emotion
+23471,mad,negative_emotion
+23472,mean,negative_emotion
+23473,nervous,negative_emotion
+23474,not good,negative_emotion
+23475,no good,negative_emotion
+23476,not well,negative_emotion
+23477,not great,negative_emotion
+23478,scared,negative_emotion
+23479,shameful,negative_emotion
+23480,shocked,negative_emotion
+23481,shy,negative_emotion
+23482,stupid,negative_emotion
+23483,terrible,negative_emotion
+23484,terrified,negative_emotion
+23485,tired,negative_emotion
+23486,unhappy,negative_emotion
+23487,upset,negative_emotion
+23488,weak,negative_emotion
+23489,worried,negative_emotion
+23490,I feel very,sentence_1
+23491,I was very,sentence_1
+23492,I am very,sentence_1
+23493,I'm very,sentence_1
+23494,I very,sentence_1
+23495,it was very,sentence_1
+23496,it is very,sentence_1
+23497,it's very,sentence_1
+23498,they are,sentence_1
+23499,they're,sentence_1
+23500,today I was very,sentence_1
+23501,today I am very,sentence_1
+23502,today was very,sentence_1
+23503,today I'm very,sentence_1
+23504,I feel,sentence_1
+23505,I was,sentence_1
+23506,I am,sentence_1
+23507,I'm,sentence_1
+23508,I,sentence_1
+23509,it was,sentence_1
+23510,it is,sentence_1
+23511,it's,sentence_1
+23512,today I was,sentence_1
+23513,today I am,sentence_1
+23514,today was,sentence_1
+23515,today I'm,sentence_1
+23516,a,number
+23517,an,number
+23518,the,number
+23519,1,number
+23520,2,number
+23521,3,number
+23522,4,number
+23523,5,number
+23524,6,number
+23525,7,number
+23526,8,number
+23527,9,number
+23528,10,number
+23619,classmate,unit1_word_1
+23620,coach,unit1_word_1
+23621,dance partner,unit1_word_1
+23622,neighbor,unit1_word_1
+23623,teacher,unit1_word_1
+23624,teammate,unit1_word_1
+23625,11,unit1_word_2
+23626,12,unit1_word_2
+23627,13,unit1_word_2
+23628,14,unit1_word_2
+23629,15,unit1_word_2
+23630,16,unit1_word_2
+23631,17,unit1_word_2
+23632,18,unit1_word_2
+23633,19,unit1_word_2
+23634,Afghanistan,country
+23635,Albania,country
+23636,Algeria,country
+23637,Argentina,country
+23638,Australia,country
+23639,Austria,country
+23640,Bangladesh,country
+23641,Belgium,country
+23642,Bhutan,country
+23643,Brazil,country
+23644,Brunei,country
+23645,Bulgaria,country
+23646,Cambodia,country
+23647,Cameroon,country
+23648,Canada,country
+23649,Chad,country
+23650,Chile,country
+23651,China,country
+23652,Colombia,country
+23653,Costa Rica,country
+23654,Croatia,country
+23655,Cuba,country
+23656,Czech Republic,country
+23657,Denmark,country
+23658,Ecuador,country
+23659,Egypt,country
+23660,El Salvador,country
+23661,Ethiopia,country
+23662,Fiji,country
+23663,Finland,country
+23664,France,country
+23665,Germany,country
+23666,Ghana,country
+23667,Greece,country
+23668,Guatemala,country
+23669,Haiti,country
+23670,Hungary,country
+23671,Iceland,country
+23672,India,country
+23673,Indonesia,country
+23674,Iran,country
+23675,Iraq,country
+23676,Ireland,country
+23677,Israel,country
+23678,Italy,country
+23679,Jamaica,country
+23680,Japan,country
+23681,Jordan,country
+23682,Kazakhstan,country
+23683,Kenya,country
+23684,Kuwait,country
+23685,Kyrgyzstan,country
+23686,Laos,country
+23687,Latvia,country
+23688,Lebanon,country
+23689,Liberia,country
+23690,Libya,country
+23691,Lithuania,country
+23692,Luxembourg,country
+23693,Macedonia,country
+23694,Madagascar,country
+23695,Malawi,country
+23696,Malaysia,country
+23697,Maldives,country
+23698,Mexico,country
+23699,Micronesia,country
+23700,Moldova,country
+23701,Monaco,country
+23702,Mongolia,country
+23703,Montenegro,country
+23704,Morocco,country
+23705,Myanmar,country
+23706,Namibia,country
+23707,Nepal,country
+23708,Netherlands,country
+23709,New Zealand,country
+23710,Niger,country
+23711,Nigeria,country
+23712,North Korea,country
+23713,Norway,country
+23714,Oman,country
+23715,Pakistan,country
+23716,Palestine,country
+23717,Panama,country
+23718,Papua New Guinea,country
+23719,Paraguay,country
+23720,Peru,country
+23721,Philippines,country
+23722,Poland,country
+23723,Portugal,country
+23724,Romania,country
+23725,Russia,country
+23726,Samoa,country
+23727,Saudi Arabia,country
+23728,Senegal,country
+23729,Serbia,country
+23730,Singapore,country
+23731,Slovakia,country
+23732,Slovenia,country
+23733,Solomon Islands,country
+23734,Somalia,country
+23735,South Africa,country
+23736,Spain,country
+23737,Sri Lanka,country
+23738,Sudan,country
+23739,Sweden,country
+23740,Switzerland,country
+23741,Syria,country
+23742,Taiwan,country
+23743,Tajikistan,country
+23744,Tanzania,country
+23745,Thailand,country
+23746,Togo,country
+23747,Tonga,country
+23748,Turkey,country
+23749,Turkmenistan,country
+23750,Ukraine,country
+23751,United Arab Emirates,country
+23752,United Kingdom,country
+23753,United States of America,country
+23754,Uruguay,country
+23755,Uzbekistan,country
+23756,Vanuatu,country
+23757,Vatican City,country
+23758,Venezuela,country
+23759,Yemen,country
+23760,Zambia,country
+23761,Zimbabwe,country
+23762,airport,place
+23763,amusement park,place
+23764,art gallery,place
+23765,aquarium,place
+23766,auditorium,place
+23767,bakery,place
+23768,bank,place
+23769,bar,place
+23770,beauty salon,place
+23771,bus station,place
+23772,cafeteria,place
+23773,cafe,place
+23774,car wash,place
+23775,cinema,place
+23776,clinic,place
+23777,coffee shop,place
+23778,college,place
+23779,convenience store,place
+23780,copy shop,place
+23781,department store,place
+23782,dentist's office,place
+23783,doctor's office,place
+23784,fast food restaurant,place
+23785,fire station,place
+23786,florist,place
+23787,food court,place
+23788,gallery,place
+23789,gas station,place
+23790,grocery store,place
+23791,gymnasium,place
+23792,gym,place
+23793,house,place
+23794,home,place
+23795,hotel,place
+23796,library,place
+23797,mall,place
+23798,market,place
+23799,movie theater,place
+23800,museum,place
+23801,nursery,place
+23802,parking garage,place
+23803,pet store,place
+23804,pharmacy,place
+23805,playground,place
+23806,post office,place
+23807,restaurant,place
+23808,salon,place
+23809,saloon,place
+23810,school,place
+23811,shop,place
+23812,stadium,place
+23813,stationery store,place
+23814,store,place
+23815,tailor,place
+23816,theater,place
+23817,toy store,place
+23818,train station,place
+23819,university,place
+23820,video store,place
+23821,swimming pool,place
+23822,work,place
+23823,company,place
+23824,living room,place
+23825,bedroom,place
+23826,kitchen,place
+23827,bathroom,place
+23828,toilet,place
+23829,room,place
+23830,police station,place
+23831,park,place
+23832,pool,place
+23833,zoo,place
+23834,bookstore,place
+23835,supermarket,place
+23836,airport,place_2
+23837,amusement park,place_2
+23838,art gallery,place_2
+23839,aquarium,place_2
+23840,auditorium,place_2
+23841,bakery,place_2
+23842,bank,place_2
+23843,bar,place_2
+23844,beauty salon,place_2
+23845,bus station,place_2
+23846,cafeteria,place_2
+23847,cafe,place_2
+23848,car wash,place_2
+23849,cinema,place_2
+23850,clinic,place_2
+23851,coffee shop,place_2
+23852,college,place_2
+23853,convenience store,place_2
+23854,copy shop,place_2
+23855,department store,place_2
+23856,dentist's office,place_2
+23857,doctor's office,place_2
+23858,fast food restaurant,place_2
+23859,fire station,place_2
+23860,florist,place_2
+23861,food court,place_2
+23862,gallery,place_2
+23863,gas station,place_2
+23864,grocery store,place_2
+23865,gymnasium,place_2
+23866,gym,place_2
+23867,house,place_2
+23868,home,place_2
+23869,hotel,place_2
+23870,library,place_2
+23871,mall,place_2
+23872,market,place_2
+23873,movie theater,place_2
+23874,museum,place_2
+23875,nursery,place_2
+23876,parking garage,place_2
+23877,pet store,place_2
+23878,pharmacy,place_2
+23879,playground,place_2
+23880,post office,place_2
+23881,restaurant,place_2
+23882,salon,place_2
+23883,saloon,place_2
+23884,school,place_2
+23885,shop,place_2
+23886,stadium,place_2
+23887,stationery store,place_2
+23888,store,place_2
+23889,tailor,place_2
+23890,theater,place_2
+23891,toy store,place_2
+23892,train station,place_2
+23893,university,place_2
+23894,video store,place_2
+23895,swimming pool,place_2
+23896,work,place_2
+23897,company,place_2
+23898,living room,place_2
+23899,bedroom,place_2
+23900,kitchen,place_2
+23901,bathroom,place_2
+23902,toilet,place_2
+23903,room,place_2
+23904,14,number_2
+23905,15,number_2
+23906,16,number_2
+23907,17,number_2
+23908,18,number_2
+23909,19,number_2
+23910,20,number_2
+23911,21,number_2
+23912,22,number_2
+23913,23,number_2
+23914,24,number_2
+23915,25,number_2
+23916,26,number_2
+23917,27,number_2
+23918,28,number_2
+23919,29,number_2
+23920,30,number_2
+23921,31,number_2
+23922,32,number_2
+23923,33,number_2
+23924,34,number_2
+23925,35,number_2
+23926,36,number_2
+23927,37,number_2
+23928,38,number_2
+23929,39,number_2
+23930,40,number_2
+23931,41,number_2
+23932,42,number_2
+23933,43,number_2
+23934,44,number_2
+23935,45,number_2
+23936,46,number_2
+23937,47,number_2
+23938,48,number_2
+23939,49,number_2
+23940,50,number_2
+23941,51,number_2
+23942,52,number_2
+23943,53,number_2
+23944,54,number_2
+23945,55,number_2
+23946,56,number_2
+23947,57,number_2
+23948,58,number_2
+23949,59,number_2
+23950,60,number_2
+23951,61,number_2
+23952,62,number_2
+23953,63,number_2
+23954,64,number_2
+23955,65,number_2
+23956,66,number_2
+23957,67,number_2
+23958,68,number_2
+23959,69,number_2
+23960,70,number_2
+23961,71,number_2
+23962,72,number_2
+23963,73,number_2
+23964,74,number_2
+23965,75,number_2
+23966,76,number_2
+23967,77,number_2
+23968,78,number_2
+23969,79,number_2
+23970,80,number_2
+23971,81,number_2
+23972,82,number_2
+23973,83,number_2
+23974,84,number_2
+23975,85,number_2
+23976,86,number_2
+23977,87,number_2
+23978,88,number_2
+23979,89,number_2
+23980,90,number_2
+23981,91,number_2
+23982,92,number_2
+23983,93,number_2
+23984,94,number_2
+23985,95,number_2
+23986,96,number_2
+23987,97,number_2
+23988,98,number_2
+23989,99,number_2
+23990,100,number_2
+23991,grandfather,unit2_word_1
+23992,grandmother,unit2_word_1
+23993,father,unit2_word_1
+23994,mother,unit2_word_1
+23995,brother,unit2_word_1
+23996,sister,unit2_word_1
+23997,aunt,unit2_word_1
+23998,uncle,unit2_word_1
+23999,pool,unit2_word_2
+24000,park,unit2_word_2
+24001,police station,unit2_word_2
+24002,zoo,unit2_word_2
+24003,supermarket,unit2_word_2
+24004,bookstore,unit2_word_2
+24005,TVs,house_object
+24006,TV,house_object
+24007,towels,house_object
+24008,towel,house_object
+24009,televisions,house_object
+24010,television,house_object
+24011,telephones,house_object
+24012,telephone,house_object
+24013,tables,house_object
+24014,table,house_object
+24015,sofas,house_object
+24016,sofa,house_object
+24017,sinks,house_object
+24018,sink,house_object
+24019,shower,house_object
+24020,rugs,house_object
+24021,rug,house_object
+24022,pianos,house_object
+24023,piano,house_object
+24024,ovens,house_object
+24025,oven,house_object
+24026,mirrors,house_object
+24027,mirror,house_object
+24028,lamps,house_object
+24029,lamp,house_object
+24030,desks,house_object
+24031,desk,house_object
+24032,cushions,house_object
+24033,cushion,house_object
+24034,curtains,house_object
+24035,computers,house_object
+24036,computer,house_object
+24037,closets,house_object
+24038,closet,house_object
+24039,clocks,house_object
+24040,clock,house_object
+24041,chairs,house_object
+24042,chair,house_object
+24043,cars,house_object
+24044,carpets,house_object
+24045,carpet,house_object
+24046,car,house_object
+24047,boxes,house_object
+24048,box,house_object
+24049,beds,house_object
+24050,bed,house_object
+24051,bathtubs,house_object
+24052,bathtub,house_object
+24053,She has,sentence_2
+24054,I have,sentence_2
+24055,She is,sentence_2
+24056,she's,sentence_2
+24057,My mother has,sentence_2
+24058,My mother is,sentence_2
+24059,I am,sentence_2
+24060,I'm,sentence_2
+24061,He has,sentence_2
+24062,He is,sentence_2
+24063,he's,sentence_2
+24064,My father has,sentence_2
+24065,My father is,sentence_2
+24066,My best friend has,sentence_2
+24067,My best friend is,sentence_2
+24068,tall,adj
+24069,short,adj
+24070,thin,adj
+24071,heavy,adj
+24072,pretty,adj
+24073,good looking,adj
+24074,ugly,adj
+24075,fat,adj
+24076,average,adj
+24077,skinny,adj
+24078,muscular,adj
+24079,attractive,adj
+24080,handsome,adj
+24081,beautiful,adj
+24082,incredible,adj
+24083,amazing,adj
+24084,big,adj
+24085,small,adj
+24086,gorgeous,adj
+24087,slim,adj
+24088,adorable,adj
+24089,fair,adj
+24090,confident,adj
+24091,precious,adj
+24092,perfect,adj
+24093,plain,adj
+24094,glamorous,adj
+24095,elegant,adj
+24096,cute,adj
+24097,tiny,adj
+24098,large ,adj
+24099,nice,adj
+24100,blond hair,char
+24101,dark hair,char
+24102,blue eyes,char
+24103,a round face,char
+24104,straight hair,char
+24105,curly hair,char
+24106,red hair,char
+24107,wavy hair,char
+24108,grey hair,char
+24109,green hair,char
+24110,purple hair,char
+24111,blue hair,char
+24112,pink hair,char
+24113,blue eyes,char
+24114,brown eyes,char
+24115,green eyes,char
+24116,a narrow face,char
+24117,a thin face,char
+24118,an oval face,char
+24119,short hair,char
+24120,long hair,char
+24121,medium hair,char
+24122,shoulder-length hair,char
+24123,waist-length hair,char
+24124,pretty,adj2
+24125,good looking,adj2
+24126,ugly,adj2
+24127,fat,adj2
+24128,average,adj2
+24129,skinny,adj2
+24130,muscular,adj2
+24131,attractive,adj2
+24132,handsome,adj2
+24133,beautiful,adj2
+24134,incredible,adj2
+24135,amazing,adj2
+24136,big,adj2
+24137,small,adj2
+24138,gorgeous,adj2
+24139,slim,adj2
+24140,adorable,adj2
+24141,fair,adj2
+24142,confident,adj2
+24143,precious,adj2
+24144,perfect,adj2
+24145,plain,adj2
+24146,glamorous,adj2
+24147,elegant,adj2
+24148,cute,adj2
+24149,tiny,adj2
+24150,large ,adj2
+24151,nice,adj2
+24152,a round face,char2
+24153,a narrow face,char2
+24154,a thin face,char2
+24155,an oval face,char2
+24156,blond,color
+24157,red,color
+24158,orange,color
+24159,yellow,color
+24160,yellow green,color
+24161,green,color
+24162,sky blue,color
+24163,light blue,color
+24164,blue,color
+24165,dark blue,color
+24166,dark,color
+24167,brunette,color
+24168,purple,color
+24169,violet,color
+24170,white,color
+24171,black,color
+24172,brown,color
+24173,silver,color
+24174,gold,color
+24175,rainbow,color
+24176,curly,style
+24177,short,style
+24178,long,style
+24179,straight,style
+24180,wavy,style
+24181,spiky,style
+24182,pen,unit3_word_1
+24183,pencil,unit3_word_1
+24184,pencil case,unit3_word_2
+24185,glue stick,unit3_word_1
+24186,paper clip,unit3_word_1
+24187,marker,unit3_word_1
+24188,ruler,unit3_word_1
+24189,eraser,unit3_word_2
+24190,dictionary,unit3_word_2
+24191,notebook,unit3_word_2
+24192,scissors,unit3_word_2
+24193,textbook,unit3_word_2
+24194,pens,unit3_word_1
+24195,pencils,unit3_word_1
+24196,pencil cases,unit3_word_2
+24197,glue sticks,unit3_word_1
+24198,paper clips,unit3_word_1
+24199,markers,unit3_word_1
+24200,rulers,unit3_word_1
+24201,erasers,unit3_word_2
+24202,dictionaries,unit3_word_2
+24203,notebooks,unit3_word_2
+24204,textbooks,unit3_word_2
+24205,tissues,item
+24206,textbooks,item
+24207,textbook,item
+24208,tape,item
+24209,sticky notes,item
+24210,sticky note,item
+24211,staplers,item
+24212,stapler,item
+24213,scissors,item
+24214,rulers,item
+24215,ruler,item
+24216,protractors,item
+24217,protractor,item
+24218,post-it notes,item
+24219,post-it note,item
+24220,pens,item
+24221,pencils,item
+24222,pencil sharpeners,item
+24223,pencil sharpener,item
+24224,pencil cases,item
+24225,pencil case,item
+24226,pencil,item
+24227,pen,item
+24228,papers,item
+24229,paper clips,item
+24230,paper clip,item
+24231,paper,item
+24232,notebooks,item
+24233,notebook,item
+24234,markers,item
+24235,marker,item
+24236,lunchboxes,item
+24237,lunchbox,item
+24238,highlighters,item
+24239,highlighter,item
+24240,glue sticks,item
+24241,glue stick,item
+24242,glue,item
+24243,folders,item
+24244,folder,item
+24245,files,item
+24246,file,item
+24247,erasers,item
+24248,eraser,item
+24249,dictionary,item
+24250,dictionaries,item
+24251,crayons,item
+24252,crayon,item
+24253,compasses,item
+24254,compass,item
+24255,calendars,item
+24256,calendar,item
+24257,calculators,item
+24258,calculator,item
+24259,books,item
+24260,books,item
+24261,book,item
+24262,book,item
+24263,backpacks,item
+24264,backpack,item
+24265,basement,unit4_word_1
+24266,bathroom,unit4_word_1
+24267,bedroom,unit4_word_1
+24268,living room,unit4_word_1
+24269,yard,unit4_word_1
+24270,kitchen,unit4_word_1
+24271,bathtub,unit4_word_2
+24272,sink,unit4_word_2
+24273,closet,unit4_word_2
+24274,rug,unit4_word_2
+24275,mirror,unit4_word_2
+24276,table,unit4_word_2
+24277,living room,unit4_word_2
+24278,bathroom,unit4_word_2
+24279,kitchen,unit4_word_2
+24280,basement,unit4_word_2
+24281,bedroom,unit4_word_2
+24282,yard,unit4_word_2
+24283,short,unit5_word_1
+24284,thin,unit5_word_1
+24285,tall,unit5_word_1
+24286,heavy,unit5_word_1
+24287,pretty,unit5_word_1
+24288,good looking,unit5_word_1
+24289,dark hair,unit5_word_2
+24290,blue eyes,unit5_word_2
+24291,around face,unit5_word_2
+24292,straight hair,unit5_word_2
+24293,curly hair,unit5_word_2
+24294,blond hair,unit5_word_2
+24295,box,unit4_word_2
+24296,oven,unit4_word_2
+24297,chair,unit4_word_2
+24298,shower,unit4_word_2
+24299,bed,unit4_word_2
+24300,sofa,unit4_word_2
+24301,short,unit5_word_2
+24302,thin,unit5_word_2
+24303,tall,unit5_word_2
+24304,heavy,unit5_word_2
+24305,pretty,unit5_word_2
+24306,good looking,unit5_word_2
+24307,a round face,unit5_word_2
+24308,around face,char
+24309,around face,char2
+24310,pair of scissors,item
+24311,pairs of scissors,item
+24312,garden,place3
+24313,bedroom,place3
+24314,bathroom,place3
+24315,living room,place3
+24316,kitchen,place3
+24317,yard,place3
+24318,basement,place3
+24319,dining room,place3
